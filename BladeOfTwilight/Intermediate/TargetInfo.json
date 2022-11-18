@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BladeOfTwilight",
+			"Path": "D:\\DanielProjects\\UE5_BladeOfTwilight\\BladeOfTwilight\\Source\\BladeOfTwilight.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BladeOfTwilightEditor",
+			"Path": "D:\\DanielProjects\\UE5_BladeOfTwilight\\BladeOfTwilight\\Source\\BladeOfTwilightEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

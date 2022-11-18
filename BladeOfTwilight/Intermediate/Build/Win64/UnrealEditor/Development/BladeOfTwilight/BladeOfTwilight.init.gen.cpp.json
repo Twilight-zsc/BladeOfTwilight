@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\danielprojects\\ue5_bladeoftwilight\\bladeoftwilight\\intermediate\\build\\win64\\unrealeditor\\inc\\bladeoftwilight\\bladeoftwilight.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\danielprojects\\ue5_bladeoftwilight\\bladeoftwilight\\intermediate\\build\\win64\\bladeoftwilighteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\danielprojects\\ue5_bladeoftwilight\\bladeoftwilight\\intermediate\\build\\win64\\unrealeditor\\development\\bladeoftwilight\\definitions.bladeoftwilight.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

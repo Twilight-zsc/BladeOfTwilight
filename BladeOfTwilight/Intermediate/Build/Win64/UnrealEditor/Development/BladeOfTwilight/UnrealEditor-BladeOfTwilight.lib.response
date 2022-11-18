@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BladeOfTwilight.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\DanielProjects\UE5_BladeOfTwilight\BladeOfTwilight\Intermediate\Build\Win64\BladeOfTwilightEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\DanielProjects\UE5_BladeOfTwilight\BladeOfTwilight\Intermediate\Build\Win64\UnrealEditor\Development\BladeOfTwilight\BladeOfTwilight.cpp.obj"
+"D:\DanielProjects\UE5_BladeOfTwilight\BladeOfTwilight\Intermediate\Build\Win64\UnrealEditor\Development\BladeOfTwilight\GAS_Character.cpp.obj"
+"D:\DanielProjects\UE5_BladeOfTwilight\BladeOfTwilight\Intermediate\Build\Win64\UnrealEditor\Development\BladeOfTwilight\BladeOfTwilight.init.gen.cpp.obj"
+"D:\DanielProjects\UE5_BladeOfTwilight\BladeOfTwilight\Intermediate\Build\Win64\UnrealEditor\Development\BladeOfTwilight\GAS_Character.gen.cpp.obj"
+"D:\DanielProjects\UE5_BladeOfTwilight\BladeOfTwilight\Intermediate\Build\Win64\UnrealEditor\Development\BladeOfTwilight\Default.rc2.res"
+/OUT:"D:\DanielProjects\UE5_BladeOfTwilight\BladeOfTwilight\Intermediate\Build\Win64\UnrealEditor\Development\BladeOfTwilight\UnrealEditor-BladeOfTwilight.lib"

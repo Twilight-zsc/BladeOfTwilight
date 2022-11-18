@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\DanielProjects\\UE5_BladeOfTwilight\\BladeOfTwilight\\Source\\BladeOfTwilight\\BladeOfTwilight.Build.cs",
+		"D:\\DanielProjects\\UE5_BladeOfTwilight\\BladeOfTwilight\\Source\\BladeOfTwilight.Target.cs",
+		"D:\\DanielProjects\\UE5_BladeOfTwilight\\BladeOfTwilight\\Source\\BladeOfTwilightEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
